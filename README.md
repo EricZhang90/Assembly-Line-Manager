@@ -1,4 +1,4 @@
-# Assembly-Line-Manager (c++ final project)
+# Assembly-Line-Manager (C++ final project)
 simulates an assembly line, which adds items to products according to orders that their customers have placed.
 /*
  * Task Manager - manages each task of the assembly line
