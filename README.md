@@ -1,4 +1,4 @@
-# Assembly-Line-Manager (C++ final project)
+# Assembly-Line-Manager
 # simulates an assembly line, which adds items to products according to orders that their customers have placed.
 * 
 * Clearly defined Object-Oriented architecture by implementing compositions, aggregations and associations
